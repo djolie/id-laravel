@@ -1,12 +1,11 @@
 # Permalinks
 permalink:        /post/:title
-relative_permalinks: true
 
 # Setup
 title:            ID Laravel
 tagline:          Tutorial Laravel Bahasa Indonesia
 url:              https://djolie.github.io
-relative_permalinks: true
+
 paginate:         1
 baseurl:          /
 author:
