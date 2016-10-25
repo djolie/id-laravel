@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            ID Laravel
 tagline:          Tutorial Laravel Bahasa Indonesia
-url:              https://djolie.github.io/id-laravel
+url:              https://djolie.github.io/
 paginate:         1
 baseurl:          /
 author:
